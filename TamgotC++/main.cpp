@@ -16,22 +16,23 @@ int main() {
     
     SetTargetFPS(60);
 
-    StartButton startButton{"Assets/start_button.png",{100,100}, 3};
+    StartButton startButton{ "Assets/start_button.png",{100,100}, 3 };
+    FeedButton feedButton{"Assets/start_button.png",{100,100}, 3};
 
-    Tamagot tamagot{ "Sasha","Assets/tama_neutral.png" };
+
+    Tamagot tamagot{"Sasha","Assets/tama_neutral.png" };
 
     while (WindowShouldClose() == false) {
         Vector2 mousePosition = GetMousePosition();
         bool mousePressed = IsMouseButtonPressed(MOUSE_BUTTON_LEFT);
 
-        startButton.isPressed(mousePosition, mousePressed);
+        feedButton.isPressed(mousePosition, mousePressed, tamagot);
 
         tamagot.Draw();
-        tamagot.UpdateAnyMeter(1, '+');
         BeginDrawing();
         ClearBackground(Dark_Green);
         DrawRectangle(275,275, 100, 50, RED);
-        startButton.Draw();
+        feedButton.Draw();
         EndDrawing();
     }
 

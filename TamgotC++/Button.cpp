@@ -49,3 +49,25 @@ StartButton::StartButton(const char* imagePath, Vector2 imagePosition, float sca
 {
 
 };
+
+FeedButton::FeedButton(const char* imagePath, Vector2 imagePosition, float scale)
+	: Button(imagePath, imagePosition, scale)
+{
+}
+
+bool FeedButton::isPressed(Vector2 mousePos, bool mousePressed, Tamagot currentTamagot)
+{
+	Rectangle rect = { m_position.x, m_position.y, static_cast<float>(m_texture.width), static_cast<float>(m_texture.height) };
+
+	if (CheckCollisionPointRec(mousePos, rect) && mousePressed)
+	{
+		DoAction(currentTamagot);
+		return true;
+	}
+	return false;
+}
+
+void FeedButton::DoAction(Tamagot currentTamagot)
+{
+	currentTamagot.UpdateAnyMeter(m_meterContext, '+');
+}

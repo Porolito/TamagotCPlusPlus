@@ -1,6 +1,6 @@
-﻿  Tamagot.cpp
-C:\Users\xecro\Desktop\Dev\TamgotC++\TamagotCPlusPlus\TamgotC++\Tamagot.cpp(11,49): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
-C:\Users\xecro\Desktop\Dev\TamgotC++\TamagotCPlusPlus\TamgotC++\Tamagot.cpp(11,35): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+﻿  Button.cpp
+C:\Users\xecro\Desktop\Dev\TamgotC++\TamagotCPlusPlus\TamgotC++\Button.cpp(22,49): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\xecro\Desktop\Dev\TamgotC++\TamagotCPlusPlus\TamgotC++\Button.cpp(22,35): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
   main.cpp
   Génération de code en cours...
   TamgotC++.vcxproj -> C:\Users\xecro\Desktop\Dev\TamgotC++\TamagotCPlusPlus\x64\Debug\TamgotC++.exe

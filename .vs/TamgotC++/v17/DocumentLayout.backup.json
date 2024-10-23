@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|solutionrelative:TamgotC\u002B\u002B\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|solutionrelative:TamgotC\u002B\u002B\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Tamagot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|solutionrelative:TamgotC\u002B\u002B\\Tamagot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|solutionrelative:TamgotC\u002B\u002B\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Tamagot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|solutionrelative:TamgotC\u002B\u002B\\Tamagot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|solutionrelative:TamgotC\u002B\u002B\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|solutionrelative:TamgotC\u002B\u002B\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Tamagot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E7679EF-4FF9-47BB-87AD-6342379FBD05}|TamgotC\u002B\u002B\\TamgotC\u002B\u002B.vcxproj|solutionrelative:TamgotC\u002B\u002B\\Tamagot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,65 +38,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Tamagot.h",
               "DocumentMoniker": "C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Tamagot.h",
               "RelativeDocumentMoniker": "TamgotC\u002B\u002B\\Tamagot.h",
               "ToolTip": "C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Tamagot.h",
               "RelativeToolTip": "TamgotC\u002B\u002B\\Tamagot.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-23T14:54:10.895Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Tamagot.cpp",
               "DocumentMoniker": "C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Tamagot.cpp",
               "RelativeDocumentMoniker": "TamgotC\u002B\u002B\\Tamagot.cpp",
               "ToolTip": "C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Tamagot.cpp",
               "RelativeToolTip": "TamgotC\u002B\u002B\\Tamagot.cpp",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-23T14:53:47.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Button.cpp",
               "DocumentMoniker": "C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Button.cpp",
               "RelativeDocumentMoniker": "TamgotC\u002B\u002B\\Button.cpp",
               "ToolTip": "C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Button.cpp",
               "RelativeToolTip": "TamgotC\u002B\u002B\\Button.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAlwEcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-22T14:49:06.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Button.h",
               "DocumentMoniker": "C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Button.h",
               "RelativeDocumentMoniker": "TamgotC\u002B\u002B\\Button.h",
               "ToolTip": "C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\Button.h",
               "RelativeToolTip": "TamgotC\u002B\u002B\\Button.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-22T14:46:42.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\main.cpp",
               "RelativeDocumentMoniker": "TamgotC\u002B\u002B\\main.cpp",
               "ToolTip": "C:\\Users\\xecro\\Desktop\\Dev\\TamgotC\u002B\u002B\\TamagotCPlusPlus\\TamgotC\u002B\u002B\\main.cpp",
               "RelativeToolTip": "TamgotC\u002B\u002B\\main.cpp",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwB0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-22T14:20:01.215Z",
               "EditorCaption": ""
