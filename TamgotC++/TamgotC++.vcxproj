@@ -129,9 +129,15 @@
   <ItemGroup>
     <ClCompile Include="Button.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Tamagot.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Button.h" />
+    <ClInclude Include="Tamagot.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\tama_happy.png" />
+    <Image Include="Assets\tama_neutral.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

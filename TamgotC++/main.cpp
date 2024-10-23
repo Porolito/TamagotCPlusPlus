@@ -4,6 +4,7 @@
 #include <iostream>
 #include "raylib.h"
 #include "Button.h"
+#include "Tamagot.h"
 
 int main() {
 
@@ -17,12 +18,16 @@ int main() {
 
     StartButton startButton{"Assets/start_button.png",{100,100}, 3};
 
+    Tamagot tamagot{ "Sasha","Assets/tama_neutral.png" };
+
     while (WindowShouldClose() == false) {
         Vector2 mousePosition = GetMousePosition();
         bool mousePressed = IsMouseButtonPressed(MOUSE_BUTTON_LEFT);
 
         startButton.isPressed(mousePosition, mousePressed);
 
+        tamagot.Draw();
+        tamagot.UpdateAnyMeter(1, '+');
         BeginDrawing();
         ClearBackground(Dark_Green);
         DrawRectangle(275,275, 100, 50, RED);

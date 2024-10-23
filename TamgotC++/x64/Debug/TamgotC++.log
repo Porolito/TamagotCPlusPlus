@@ -1,8 +1,8 @@
-﻿  Button.cpp
-C:\Users\xecro\Desktop\Dev\TamgotC++\TamgotC++\Button.cpp(22,49): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
-C:\Users\xecro\Desktop\Dev\TamgotC++\TamgotC++\Button.cpp(22,35): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+﻿  Tamagot.cpp
+C:\Users\xecro\Desktop\Dev\TamgotC++\TamagotCPlusPlus\TamgotC++\Tamagot.cpp(11,49): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\xecro\Desktop\Dev\TamgotC++\TamagotCPlusPlus\TamgotC++\Tamagot.cpp(11,35): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
   main.cpp
   Génération de code en cours...
-  TamgotC++.vcxproj -> C:\Users\xecro\Desktop\Dev\TamgotC++\x64\Debug\TamgotC++.exe
+  TamgotC++.vcxproj -> C:\Users\xecro\Desktop\Dev\TamgotC++\TamagotCPlusPlus\x64\Debug\TamgotC++.exe
   'pwsh.exe' n'est pas reconnu en tant que commande interne
   ou externe, un programme exécutable ou un fichier de commandes.
